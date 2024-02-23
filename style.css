@@ -1,0 +1,39 @@
+   #content{
+            width: 400px;
+            margin: 0 auto;
+            margin-top: 50px;
+            text-align: center;
+        }
+        div.magic-eight-ball {
+            background-color: black;
+            border: 1px solid black;
+            border-radius: 50%;
+            width: 300px;
+            height: 300px;
+            margin: 0 auto;
+        }
+        div.response {
+            background-color: gray;
+            border: 1px solid gray;
+            border-radius: 50px;
+            width: 50%;
+            height: 50%;
+            margin: 25% auto;
+        }
+        p#number8 {
+            font-size: 4rem;
+            margin: 30% auto;
+            color: white;
+        }
+        p#response{
+            padding: 21px;
+            color: lightcyan;
+            letter-spacing: 2px;
+            font-size: 15px;
+        }
+        #question{
+            margin: 20px;
+            padding: 10px;
+            width: 300px;
+            font-size: 20px;
+        }
